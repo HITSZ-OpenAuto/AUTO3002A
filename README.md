@@ -1,11 +1,16 @@
 # 自动控制实践A
+文档编写者：Oliver Wu
+贡献者：
 
 ![Static Badge](https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red)![Static Badge](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-3-moccasin)
+![Static Badge](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)![Static Badge](https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-10%25-wheat) ![Static Badge](https://img.shields.io/badge/实验-25%25-wheat)![Static Badge](https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-65%25-wheat)
+## 教材、参考书、学时安排
+教材：梅晓榕主编，自动控制元件及线路（第五版），科学出版社。
+参考书：
 
-![Static Badge](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)![Static Badge](https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-10%25-wheat)![Static Badge](https://img.shields.io/badge/实验-25%25-wheat)![Static Badge](https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-65%25-wheat)
 
 <h4>学时安排表（21级）</h4>   <!--标题-->
-<table border="1" width="500px" cellspacing="10">
+<table border="1" cellspacing="10">
 <tr>
   <th align="center">授课教师</th>
   <th align="center">授课内容</th>
@@ -64,7 +69,7 @@
   <td>很重要，学时很少，要记忆的东西却很多。重点在负载运行和空载运行的基本方程和T形等效电路。笔记文件夹里的笔记整理得很清楚。</td>
 </tr>
 <tr>
-  <td rowspan="11" align="center">Li Jiangang</td>
+  <td rowspan="10" align="center">Li Jiangang</td>
   <td>课程概述</td>
   <td>1</td>
   <td>了解即可</td>
@@ -81,28 +86,37 @@
 </tr>
 <tr>
   <td>交流电机概述</td>
-  <td>1</td>
-  <td rowspan="8" align="center">剩下内容还没开始，等授课结束再来补充。</td>
+  <td>2</td>
+  <td>重要</td>
 </tr>
 <tr>
-  <td>交流伺服电机与无刷电机</td>
-  <td></td>
+  <td>无刷直流电机与交流伺服电机</td>
+  <td>6</td>
 </tr>
 <tr>
   <td>测量元件</td>
-  <td></td>
+  <td>2</td>
+  <td>开始起飞，大家从这里开始只要尽量听明白就行，笔记课后再做。</td>
 </tr>
 <tr>
-  <td>异步电机的原理及结构</td>
-  <td></td>
+  <td>三相异步电机的原理及结构</td>
+  <td>2</td>
+  <td>非常重要</td>
 </tr>
 <tr>
-  <td>异步电机的等效电路</td>
-  <td></td>
+  <td>三相异步电机的等效电路及运行分析</td>
+  <td>2</td>
+  <td>非常重要</td>
+</tr>
+<tr>
+  <td>单相异步电机的等效电路及运行分析</td>
+  <td>1</td>
+  <td>需要理解，有小题</td>
 </tr>
 <tr>
   <td>小功率同步电机</td>
-  <td></td>
+  <td>0</td>
+<td>考试不涉及，几乎没讲</td>
 </tr>
 </table>
 
@@ -119,12 +133,11 @@
 
 - 教师1：Long Zhili
   - 授课风格：稍显含糊，车轱辘话较多；课件内容较丰富，有别学校课件截下来的内容，不过画质较差，而且比较乱，不适合直接做笔记。
-  - 是否需要认真听讲做笔记：基本忠于ppt（不会自由发挥），由于车轱辘话较多，知识讲解得比较抽象，上课不易听懂，课后要多花时间。
-  - 听课建议：同上
+  - 听课建议：基本忠于ppt（不会自由发挥），由于车轱辘话较多，知识讲解得比较抽象，上课不易听懂，课后要多花时间。
 - 教师2：Li Jiangang
-  - 授课风格：语速很快、逻辑较清晰、答疑有耐心、板书不好看、语气词较多、课件较美观
-  - 是否需要认真听讲做笔记：逻辑较为清晰，可以听懂；建议认真听讲，因为上课节奏较快，笔记可以课后再做，上课只求听懂即可。
-  - 听课建议：同上
+  - 授课风格：语速很快（因为学时有限，到后面会快到起飞）、逻辑较清晰（到后面由于速度快变得不清晰）、答疑有耐心、板书不好看、语气词较多（到后程由于速度极快，
+    语气词的数量甚至会超过传递信息的词）、课件较美观
+  - 听课建议：因为上课节奏较快，上课只求听懂大概即可，但课后务必整理笔记！！！
 
 ## 关于考试
 
