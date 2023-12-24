@@ -1,5 +1,5 @@
 # 自动控制实践A
-**new: 步进电机笔记&答案更新**
+**new: 直流电机、PWM、步进电机笔记更新，直流电机动特性与选择的答案更新**
 
 文档编写者：[Oliver Wu](https://github.com/OliverWu515)（撰写有关21级部分）
 
@@ -26,7 +26,6 @@
   配套网课：[电机学（哈尔滨理工大学）bilibili](https://www.bilibili.com/video/BV1cx411Z76w/?spm_id_from=333.337.search-card.all.click)
 
 - （哈尔滨理工大学）汤蕴璆编著，电机学（第5版），机械工业出版社。
-
 - （大连理工大学）孙建忠、刘凤春等编，电机与拖动（第4版），机械工业出版社。
 
 上面的是传统电机学教材，可以看里面的直流电机、变压器、异步电机和同步电机。关于伺服电机和步进电机，可以参考以下书目：
@@ -38,8 +37,8 @@
 
 - （西安交通大学）王兆安等，电力电子技术（第5版），机械工业出版社。
 - Erickson，Fundamental of power electronics（3rd ed.)，Springer。
-- https://space.bilibili.com/519909115
-- [西瓜粥西瓜粥的个人空间-西瓜粥西瓜粥个人主页-哔哩哔哩视频 (bilibili.com)](https://space.bilibili.com/287344644?spm_id_from=333.337.search-card.all.click)
+- [傅旻帆-上海科技大学](https://space.bilibili.com/519909115)
+- [西瓜粥西瓜粥个人主页-哔哩哔哩视频 (bilibili.com)](https://space.bilibili.com/287344644?spm_id_from=333.337.search-card.all.click)
 
 <h4>学时安排表（21级）</h4>   <!--标题-->
 <table border="1" cellspacing="10">
