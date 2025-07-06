@@ -1,0 +1,592 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 2591,
+    "time": 1751765530,
+    "hash": "87dfafbc14d53cb29a625a73cee7f45077402d96"
+  },
+  ".hoa/worktree.json": {
+    "size": 19700,
+    "time": 1751764125,
+    "hash": "500fdf67d6ede8073284aa90c830048fe72330f2"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1713083202,
+    "hash": "570d7263e1a51c4118292e78eaa9281b3f90d4d6"
+  },
+  "README.md": {
+    "size": 11790,
+    "time": 1750990186,
+    "hash": "085a8a26e5a0cc33dd3cbe44e9156465b371d38a"
+  },
+  "assignments/2022/ACPP_HW1.pdf": {
+    "size": 839525,
+    "time": 1734684460,
+    "hash": "24370929c41aab5bda0461bc5729dbcc4fff891f"
+  },
+  "assignments/2022/ACPP_HW2.pdf": {
+    "size": 309592,
+    "time": 1734684460,
+    "hash": "24370929c41aab5bda0461bc5729dbcc4fff891f"
+  },
+  "assignments/2022/ACPP_HW3.pdf": {
+    "size": 237911,
+    "time": 1734684460,
+    "hash": "24370929c41aab5bda0461bc5729dbcc4fff891f"
+  },
+  "assignments/2022/作业3.pdf": {
+    "size": 145251,
+    "time": 1734684460,
+    "hash": "24370929c41aab5bda0461bc5729dbcc4fff891f"
+  },
+  "assignments/2023/后半程作业答案.pdf": {
+    "size": 436942,
+    "time": 1750990186,
+    "hash": "085a8a26e5a0cc33dd3cbe44e9156465b371d38a"
+  },
+  "assignments/2023/异步电机部分作业.pdf": {
+    "size": 44456,
+    "time": 1734684460,
+    "hash": "24370929c41aab5bda0461bc5729dbcc4fff891f"
+  },
+  "assignments/2024/psp/1 直流电机.pdf": {
+    "size": 1557639,
+    "time": 1750990186,
+    "hash": "085a8a26e5a0cc33dd3cbe44e9156465b371d38a"
+  },
+  "assignments/2024/psp/2 变压器.pdf": {
+    "size": 458449,
+    "time": 1750990186,
+    "hash": "085a8a26e5a0cc33dd3cbe44e9156465b371d38a"
+  },
+  "assignments/2024/psp/3 异步电机.pdf": {
+    "size": 1603282,
+    "time": 1750990186,
+    "hash": "085a8a26e5a0cc33dd3cbe44e9156465b371d38a"
+  },
+  "assignments/2024/psp/5 步进电机.pdf": {
+    "size": 544466,
+    "time": 1750990186,
+    "hash": "085a8a26e5a0cc33dd3cbe44e9156465b371d38a"
+  },
+  "assignments/2024/psp/6 无刷直流电机与交流伺服电机.pdf": {
+    "size": 788867,
+    "time": 1750990186,
+    "hash": "085a8a26e5a0cc33dd3cbe44e9156465b371d38a"
+  },
+  "assignments/2024/psp/README.md": {
+    "size": 316,
+    "time": 1750990186,
+    "hash": "085a8a26e5a0cc33dd3cbe44e9156465b371d38a"
+  },
+  "exams/README.md": {
+    "size": 178,
+    "time": 1736784667,
+    "hash": "d70dd15098a8f8f48e708ee164c8494c5dba03bf"
+  },
+  "exams/本部-往年题/哈工大自动控制元件及线路历年考题.pdf": {
+    "size": 4999637,
+    "time": 1736784667,
+    "hash": "d70dd15098a8f8f48e708ee164c8494c5dba03bf"
+  },
+  "exams/本部-往年题/自动控制元件及线路2012秋期末试卷.pdf": {
+    "size": 1878214,
+    "time": 1736784667,
+    "hash": "d70dd15098a8f8f48e708ee164c8494c5dba03bf"
+  },
+  "exams/本部-往年题/自动控制元件及线路2019秋期末试卷.pdf": {
+    "size": 2840909,
+    "time": 1736784667,
+    "hash": "d70dd15098a8f8f48e708ee164c8494c5dba03bf"
+  },
+  "exams/本部-往年题/自动控制元件及线路2020秋期末试卷.pdf": {
+    "size": 1456811,
+    "time": 1736784667,
+    "hash": "d70dd15098a8f8f48e708ee164c8494c5dba03bf"
+  },
+  "exams/本部-试题汇编/1 绪论相关试题 - 答案.docx": {
+    "size": 52867,
+    "time": 1734684460,
+    "hash": "24370929c41aab5bda0461bc5729dbcc4fff891f"
+  },
+  "exams/本部-试题汇编/1 绪论相关试题.docx": {
+    "size": 15465,
+    "time": 1702802527,
+    "hash": "debc4465f1935777b62a24329151296e378143d7"
+  },
+  "exams/本部-试题汇编/10 变压器相关试题 - 答案.docx": {
+    "size": 609877,
+    "time": 1734684460,
+    "hash": "24370929c41aab5bda0461bc5729dbcc4fff891f"
+  },
+  "exams/本部-试题汇编/10 变压器相关试题.docx": {
+    "size": 593760,
+    "time": 1734684460,
+    "hash": "24370929c41aab5bda0461bc5729dbcc4fff891f"
+  },
+  "exams/本部-试题汇编/13 异步电机相关试题 - 答案.docx": {
+    "size": 176210,
+    "time": 1734684460,
+    "hash": "24370929c41aab5bda0461bc5729dbcc4fff891f"
+  },
+  "exams/本部-试题汇编/13 异步电机相关试题.docx": {
+    "size": 90211,
+    "time": 1734684460,
+    "hash": "24370929c41aab5bda0461bc5729dbcc4fff891f"
+  },
+  "exams/本部-试题汇编/14 小功率同步电机相关试题.docx": {
+    "size": 13495,
+    "time": 1702802527,
+    "hash": "debc4465f1935777b62a24329151296e378143d7"
+  },
+  "exams/本部-试题汇编/15 步进电机相关试题 - 答案.docx": {
+    "size": 21121,
+    "time": 1734684460,
+    "hash": "24370929c41aab5bda0461bc5729dbcc4fff891f"
+  },
+  "exams/本部-试题汇编/15 步进电机相关试题.docx": {
+    "size": 13197,
+    "time": 1734684460,
+    "hash": "24370929c41aab5bda0461bc5729dbcc4fff891f"
+  },
+  "exams/本部-试题汇编/16 无刷直流电机相关试题 - 答案.docx": {
+    "size": 11598,
+    "time": 1734684460,
+    "hash": "24370929c41aab5bda0461bc5729dbcc4fff891f"
+  },
+  "exams/本部-试题汇编/16 无刷直流电机相关试题.docx": {
+    "size": 11229,
+    "time": 1734684460,
+    "hash": "24370929c41aab5bda0461bc5729dbcc4fff891f"
+  },
+  "exams/本部-试题汇编/2 磁路基础知识相关例题 - 答案.docx": {
+    "size": 17355,
+    "time": 1734684460,
+    "hash": "24370929c41aab5bda0461bc5729dbcc4fff891f"
+  },
+  "exams/本部-试题汇编/2 磁路基础知识相关例题.docx": {
+    "size": 12015,
+    "time": 1734684460,
+    "hash": "24370929c41aab5bda0461bc5729dbcc4fff891f"
+  },
+  "exams/本部-试题汇编/22 测量元件相关试题  - 答案.docx": {
+    "size": 63631,
+    "time": 1734684460,
+    "hash": "24370929c41aab5bda0461bc5729dbcc4fff891f"
+  },
+  "exams/本部-试题汇编/22 测量元件相关试题 .docx": {
+    "size": 18522,
+    "time": 1734684460,
+    "hash": "24370929c41aab5bda0461bc5729dbcc4fff891f"
+  },
+  "exams/本部-试题汇编/3 直流电机的原理与基本结构相关例题 - 答案.docx": {
+    "size": 20287,
+    "time": 1734684460,
+    "hash": "24370929c41aab5bda0461bc5729dbcc4fff891f"
+  },
+  "exams/本部-试题汇编/3 直流电机的原理与基本结构相关例题.docx": {
+    "size": 12340,
+    "time": 1734684460,
+    "hash": "24370929c41aab5bda0461bc5729dbcc4fff891f"
+  },
+  "exams/本部-试题汇编/4 直流电机的特性与控制方法相关试题 - 答案.docx": {
+    "size": 273726,
+    "time": 1734684460,
+    "hash": "24370929c41aab5bda0461bc5729dbcc4fff891f"
+  },
+  "exams/本部-试题汇编/4 直流电机的特性与控制方法相关试题.docx": {
+    "size": 243665,
+    "time": 1734684460,
+    "hash": "24370929c41aab5bda0461bc5729dbcc4fff891f"
+  },
+  "exams/本部-试题汇编/5 直流电机的动特性与选择相关试题 - 答案.docx": {
+    "size": 138697,
+    "time": 1734684460,
+    "hash": "24370929c41aab5bda0461bc5729dbcc4fff891f"
+  },
+  "exams/本部-试题汇编/5 直流电机的动特性与选择相关试题.docx": {
+    "size": 47788,
+    "time": 1734684460,
+    "hash": "24370929c41aab5bda0461bc5729dbcc4fff891f"
+  },
+  "exams/本部-试题汇编/9 功率放大器相关试题 - 答案.docx": {
+    "size": 364466,
+    "time": 1734684460,
+    "hash": "24370929c41aab5bda0461bc5729dbcc4fff891f"
+  },
+  "exams/本部-试题汇编/9 功率放大器相关试题.docx": {
+    "size": 46812,
+    "time": 1702802527,
+    "hash": "debc4465f1935777b62a24329151296e378143d7"
+  },
+  "exams/深圳/2023秋自动控制实践A试题回忆版.pdf": {
+    "size": 564567,
+    "time": 1750990186,
+    "hash": "085a8a26e5a0cc33dd3cbe44e9156465b371d38a"
+  },
+  "exams/深圳/2023秋自动控制实践A试题回忆版参考答案.docx": {
+    "size": 1346564,
+    "time": 1750990186,
+    "hash": "085a8a26e5a0cc33dd3cbe44e9156465b371d38a"
+  },
+  "exams/深圳/2024秋自动控制实践A期末试题参考答案v2.2版.pdf": {
+    "size": 5652752,
+    "time": 1750990186,
+    "hash": "085a8a26e5a0cc33dd3cbe44e9156465b371d38a"
+  },
+  "exams/深圳/2024秋自控实践期末（回忆v2.0版） .pdf": {
+    "size": 443931,
+    "time": 1750990186,
+    "hash": "085a8a26e5a0cc33dd3cbe44e9156465b371d38a"
+  },
+  "labs/2021/LMH_2021/实验报告-实验1.pdf": {
+    "size": 4684305,
+    "time": 1736784667,
+    "hash": "d70dd15098a8f8f48e708ee164c8494c5dba03bf"
+  },
+  "labs/2021/LMH_2021/实验报告-实验2.pdf": {
+    "size": 6274377,
+    "time": 1736784667,
+    "hash": "d70dd15098a8f8f48e708ee164c8494c5dba03bf"
+  },
+  "labs/2021/LMH_2021/实验报告-实验3.pdf": {
+    "size": 7973855,
+    "time": 1736784667,
+    "hash": "d70dd15098a8f8f48e708ee164c8494c5dba03bf"
+  },
+  "labs/2021/LMH_2021/实验报告-实验4.pdf": {
+    "size": 6484730,
+    "time": 1736784667,
+    "hash": "d70dd15098a8f8f48e708ee164c8494c5dba03bf"
+  },
+  "labs/2022/Tintin/实验一/实验一图片.zip": {
+    "size": 28430,
+    "time": 1737197984,
+    "hash": "928f509391463f97652466855930374219395512"
+  },
+  "labs/2022/Tintin/实验一/自动控制实践A实验报告1.docx": {
+    "size": 1146640,
+    "time": 1737197984,
+    "hash": "928f509391463f97652466855930374219395512"
+  },
+  "labs/2022/Tintin/实验三/自动控制实践A实验报告3.docx": {
+    "size": 1667359,
+    "time": 1737197984,
+    "hash": "928f509391463f97652466855930374219395512"
+  },
+  "labs/2022/Tintin/实验三/自控实践实验三数据.xlsx": {
+    "size": 21522,
+    "time": 1737197984,
+    "hash": "928f509391463f97652466855930374219395512"
+  },
+  "labs/2022/Tintin/实验二/20221018实验数据.xlsx": {
+    "size": 15311,
+    "time": 1737197984,
+    "hash": "928f509391463f97652466855930374219395512"
+  },
+  "labs/2022/Tintin/实验二/实验二图片.zip": {
+    "size": 73670,
+    "time": 1737197984,
+    "hash": "928f509391463f97652466855930374219395512"
+  },
+  "labs/2022/Tintin/实验二/自动控制实践A实验报告2.docx": {
+    "size": 1140273,
+    "time": 1737197984,
+    "hash": "928f509391463f97652466855930374219395512"
+  },
+  "labs/2022/Tintin/实验四/实验四图片.zip": {
+    "size": 281745,
+    "time": 1737197984,
+    "hash": "928f509391463f97652466855930374219395512"
+  },
+  "labs/2022/Tintin/实验四/自动控制实践A实验报告4.docx": {
+    "size": 1547205,
+    "time": 1737197984,
+    "hash": "928f509391463f97652466855930374219395512"
+  },
+  "labs/2022/lab manual/1 电机PWM控制与驱动电路实验指导书.pdf": {
+    "size": 8227727,
+    "time": 1737197984,
+    "hash": "928f509391463f97652466855930374219395512"
+  },
+  "labs/2022/lab manual/2 交流伺服电机特性实验指导书.pdf": {
+    "size": 7806572,
+    "time": 1737197984,
+    "hash": "928f509391463f97652466855930374219395512"
+  },
+  "labs/2022/lab manual/3 步进电机特性实验.pdf": {
+    "size": 3757883,
+    "time": 1737197984,
+    "hash": "928f509391463f97652466855930374219395512"
+  },
+  "labs/2022/lab manual/4 传感与测量反馈元件特性实验.pdf": {
+    "size": 4575328,
+    "time": 1737197984,
+    "hash": "928f509391463f97652466855930374219395512"
+  },
+  "labs/2023/LJH_2023/README.md": {
+    "size": 366,
+    "time": 1706848256,
+    "hash": "62f4263b009a942eda2923716afbdbd0a0fe0287"
+  },
+  "labs/2023/LJH_2023/实验一-电机PWM控制与驱动电路.pdf": {
+    "size": 886922,
+    "time": 1706848256,
+    "hash": "62f4263b009a942eda2923716afbdbd0a0fe0287"
+  },
+  "labs/2023/LJH_2023/实验三-交流伺服电机特性.pdf": {
+    "size": 821477,
+    "time": 1706848256,
+    "hash": "62f4263b009a942eda2923716afbdbd0a0fe0287"
+  },
+  "labs/2023/LJH_2023/实验二-步进电机特性.pdf": {
+    "size": 877058,
+    "time": 1706848256,
+    "hash": "62f4263b009a942eda2923716afbdbd0a0fe0287"
+  },
+  "labs/2023/LJH_2023/实验四-传感与测量反馈元件特性.pdf": {
+    "size": 1478347,
+    "time": 1706848256,
+    "hash": "62f4263b009a942eda2923716afbdbd0a0fe0287"
+  },
+  "labs/2023/WJD_2023/210320621-吴俊达-交流伺服电机特性实验.docx": {
+    "size": 1355659,
+    "time": 1706848256,
+    "hash": "62f4263b009a942eda2923716afbdbd0a0fe0287"
+  },
+  "labs/2023/WJD_2023/210320621-吴俊达-传感与测量反馈元件特性实验.docx": {
+    "size": 830434,
+    "time": 1706848256,
+    "hash": "62f4263b009a942eda2923716afbdbd0a0fe0287"
+  },
+  "labs/2023/WJD_2023/210320621-吴俊达-步进电机特性实验.docx": {
+    "size": 1168899,
+    "time": 1706848256,
+    "hash": "62f4263b009a942eda2923716afbdbd0a0fe0287"
+  },
+  "labs/2023/WJD_2023/210320621-吴俊达-电机PWM控制与驱动电路实验.docx": {
+    "size": 5772543,
+    "time": 1706848256,
+    "hash": "62f4263b009a942eda2923716afbdbd0a0fe0287"
+  },
+  "labs/2023/lab manual/交流伺服电机特性实验指导书.pdf": {
+    "size": 7806572,
+    "time": 1736784667,
+    "hash": "d70dd15098a8f8f48e708ee164c8494c5dba03bf"
+  },
+  "labs/2023/lab manual/传感与测量反馈元件特性实验2023.pdf": {
+    "size": 4572166,
+    "time": 1736784667,
+    "hash": "d70dd15098a8f8f48e708ee164c8494c5dba03bf"
+  },
+  "labs/2023/lab manual/步进电机特性实验.pdf": {
+    "size": 3757883,
+    "time": 1736784667,
+    "hash": "d70dd15098a8f8f48e708ee164c8494c5dba03bf"
+  },
+  "labs/2023/lab manual/电机PWM控制与驱动电路实验指导书.pdf": {
+    "size": 8227727,
+    "time": 1736784667,
+    "hash": "d70dd15098a8f8f48e708ee164c8494c5dba03bf"
+  },
+  "labs/2024/lab manual/lab1 步进电机特性实验.pdf": {
+    "size": 3757883,
+    "time": 1736784667,
+    "hash": "d70dd15098a8f8f48e708ee164c8494c5dba03bf"
+  },
+  "labs/2024/lab manual/lab2 电机PWM控制与驱动电路实验.pdf": {
+    "size": 8227727,
+    "time": 1736784667,
+    "hash": "d70dd15098a8f8f48e708ee164c8494c5dba03bf"
+  },
+  "labs/2024/lab manual/lab3 交流伺服电机特性实验.pdf": {
+    "size": 7806572,
+    "time": 1736784667,
+    "hash": "d70dd15098a8f8f48e708ee164c8494c5dba03bf"
+  },
+  "labs/2024/lab manual/lab4 传感与测量反馈元件特性实验.pdf": {
+    "size": 4575328,
+    "time": 1736784667,
+    "hash": "d70dd15098a8f8f48e708ee164c8494c5dba03bf"
+  },
+  "labs/2024/psp/code/Lab1.m": {
+    "size": 2062,
+    "time": 1736784667,
+    "hash": "d70dd15098a8f8f48e708ee164c8494c5dba03bf"
+  },
+  "labs/2024/psp/code/Lab3.m": {
+    "size": 1229,
+    "time": 1736784667,
+    "hash": "d70dd15098a8f8f48e708ee164c8494c5dba03bf"
+  },
+  "labs/2024/psp/reports/Lab1 步进电机.docx": {
+    "size": 945465,
+    "time": 1750990186,
+    "hash": "085a8a26e5a0cc33dd3cbe44e9156465b371d38a"
+  },
+  "labs/2024/psp/reports/Lab2 PWM控制与驱动电路.docx": {
+    "size": 834233,
+    "time": 1750990186,
+    "hash": "085a8a26e5a0cc33dd3cbe44e9156465b371d38a"
+  },
+  "labs/2024/psp/reports/Lab3 交流伺服.docx": {
+    "size": 934221,
+    "time": 1750990186,
+    "hash": "085a8a26e5a0cc33dd3cbe44e9156465b371d38a"
+  },
+  "labs/2024/psp/reports/Lab4 传感与反馈元件特性.docx": {
+    "size": 1533958,
+    "time": 1750990186,
+    "hash": "085a8a26e5a0cc33dd3cbe44e9156465b371d38a"
+  },
+  "materials/README.md": {
+    "size": 211,
+    "time": 1736784667,
+    "hash": "d70dd15098a8f8f48e708ee164c8494c5dba03bf"
+  },
+  "materials/自动控制元件习题资料.pdf": {
+    "size": 3537256,
+    "time": 1736784667,
+    "hash": "d70dd15098a8f8f48e708ee164c8494c5dba03bf"
+  },
+  "materials/自动控制元件及线路课后题答案（百度文库）.pdf": {
+    "size": 1636726,
+    "time": 1736784667,
+    "hash": "d70dd15098a8f8f48e708ee164c8494c5dba03bf"
+  },
+  "materials/自动控制元件教材课后题答案.pdf": {
+    "size": 18222139,
+    "time": 1736784667,
+    "hash": "d70dd15098a8f8f48e708ee164c8494c5dba03bf"
+  },
+  "notes/2021_LMH/自控实践笔记.pdf": {
+    "size": 48449917,
+    "time": 1737197984,
+    "hash": "928f509391463f97652466855930374219395512"
+  },
+  "notes/2023_WJD/自动控制实践A_ 1. 磁路、直流电机(V1.2.1).pdf": {
+    "size": 15202116,
+    "time": 1737197984,
+    "hash": "928f509391463f97652466855930374219395512"
+  },
+  "notes/2023_WJD/自动控制实践A_ 2.1 电力电子技术概述.pdf": {
+    "size": 634584,
+    "time": 1737197984,
+    "hash": "928f509391463f97652466855930374219395512"
+  },
+  "notes/2023_WJD/自动控制实践A_ 2.2 PWM.pdf": {
+    "size": 4699236,
+    "time": 1737197984,
+    "hash": "928f509391463f97652466855930374219395512"
+  },
+  "notes/2023_WJD/自动控制实践A_ 3. 变压器(V1.1).pdf": {
+    "size": 5432717,
+    "time": 1737197984,
+    "hash": "928f509391463f97652466855930374219395512"
+  },
+  "notes/2023_WJD/自动控制实践A_ 4. 步进电机(V1.1).pdf": {
+    "size": 11212111,
+    "time": 1737197984,
+    "hash": "928f509391463f97652466855930374219395512"
+  },
+  "notes/2023_WJD/自动控制实践A_ 5. 交流绕组、异步电机(V1.0.1).pdf": {
+    "size": 23592121,
+    "time": 1737197984,
+    "hash": "928f509391463f97652466855930374219395512"
+  },
+  "notes/自控实践_by_Spar Océsel_2023.apkg": {
+    "size": 2441679,
+    "time": 1704516479,
+    "hash": "7d6b38ebe71da180be45be82fb45ccd0abf1542b"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1737541438,
+    "hash": "64206784f05e7e97e7ef525f4051c41c797cf41d"
+  },
+  "slides/24-psp-带笔记/0 绪论与磁路.pdf": {
+    "size": 2313336,
+    "time": 1750990186,
+    "hash": "085a8a26e5a0cc33dd3cbe44e9156465b371d38a"
+  },
+  "slides/24-psp-带笔记/1 有刷直流电机.pdf": {
+    "size": 7774010,
+    "time": 1750990186,
+    "hash": "085a8a26e5a0cc33dd3cbe44e9156465b371d38a"
+  },
+  "slides/24-psp-带笔记/2 电力电子技术与PWM.pdf": {
+    "size": 4377487,
+    "time": 1750990186,
+    "hash": "085a8a26e5a0cc33dd3cbe44e9156465b371d38a"
+  },
+  "slides/24-psp-带笔记/3 变压器.pdf": {
+    "size": 1537295,
+    "time": 1750990186,
+    "hash": "085a8a26e5a0cc33dd3cbe44e9156465b371d38a"
+  },
+  "slides/24-psp-带笔记/4 步进电机.pdf": {
+    "size": 15855497,
+    "time": 1750990186,
+    "hash": "085a8a26e5a0cc33dd3cbe44e9156465b371d38a"
+  },
+  "slides/24-psp-带笔记/5.1 测量元件概述.pdf": {
+    "size": 6979634,
+    "time": 1750990186,
+    "hash": "085a8a26e5a0cc33dd3cbe44e9156465b371d38a"
+  },
+  "slides/24-psp-带笔记/5.2 旋转变压器与感应同步器.pdf": {
+    "size": 11033293,
+    "time": 1750990186,
+    "hash": "085a8a26e5a0cc33dd3cbe44e9156465b371d38a"
+  },
+  "slides/24-psp-带笔记/5.3 光电编码器与光栅.pdf": {
+    "size": 11765668,
+    "time": 1750990186,
+    "hash": "085a8a26e5a0cc33dd3cbe44e9156465b371d38a"
+  },
+  "slides/24-psp-带笔记/6 无刷直流电机和交流伺服电机.pdf": {
+    "size": 13059896,
+    "time": 1750990186,
+    "hash": "085a8a26e5a0cc33dd3cbe44e9156465b371d38a"
+  },
+  "slides/24-psp-带笔记/7.1 交流电机概述.pdf": {
+    "size": 7969085,
+    "time": 1750990186,
+    "hash": "085a8a26e5a0cc33dd3cbe44e9156465b371d38a"
+  },
+  "slides/24-psp-带笔记/7.2 交流电机的旋转磁场与感应电势.pdf": {
+    "size": 11207296,
+    "time": 1750990186,
+    "hash": "085a8a26e5a0cc33dd3cbe44e9156465b371d38a"
+  },
+  "slides/24-psp-带笔记/7.3 异步电机的运行分析和等效电路.pdf": {
+    "size": 7296009,
+    "time": 1750990186,
+    "hash": "085a8a26e5a0cc33dd3cbe44e9156465b371d38a"
+  },
+  "slides/24-psp-带笔记/7.4 异步电机的机械特性和调速运行.pdf": {
+    "size": 11534324,
+    "time": 1750990186,
+    "hash": "085a8a26e5a0cc33dd3cbe44e9156465b371d38a"
+  },
+  "slides/24-psp-带笔记/7.5 单相异步电机和异步电机参数.pdf": {
+    "size": 3215188,
+    "time": 1750990186,
+    "hash": "085a8a26e5a0cc33dd3cbe44e9156465b371d38a"
+  },
+  "slides/24-psp-带笔记/README.md": {
+    "size": 578,
+    "time": 1736784667,
+    "hash": "d70dd15098a8f8f48e708ee164c8494c5dba03bf"
+  },
+  "slides/README.md": {
+    "size": 155,
+    "time": 1750990186,
+    "hash": "085a8a26e5a0cc33dd3cbe44e9156465b371d38a"
+  },
+  "tag.txt": {
+    "size": 71,
+    "time": 1699347781,
+    "hash": "734f89a94222c4245adc7755cb174a7125c70e88"
+  }
+}
