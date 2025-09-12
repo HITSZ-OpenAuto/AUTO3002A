@@ -67,7 +67,7 @@
 
 > 文/ [Oliver Wu](https://github.com/OliverWu515)，2024.2
 
-<table>
+<table border="1">
   <thead>
     <tr>
       <th>授课教师</th>
