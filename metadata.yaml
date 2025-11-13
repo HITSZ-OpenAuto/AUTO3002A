@@ -1,0 +1,151 @@
+ID: "AUTO3002A"
+SimilarID: []
+Name: "自动控制实践A"
+CourseProperty:
+  Major:
+    - Year: "2019_2020"
+      Name: [ "自动化" ]
+      Degree: "本"
+      GroupCourse:
+        Link: ""
+        Desc: ""
+        Name: ""
+        Ids: ["", "", ""]
+      GradeComposition:
+        - Name: "实验"
+          Percentage: 25
+        - Name: "论文"
+          Percentage: 10
+        - Name: "期末考试"
+          Percentage: 65
+      CourseHourComposition:
+        - Name: "授课"
+          Hour: 40
+        - Name: "实验"
+          Hour: 8
+
+    - Year: "2020_2021"
+      Name: [ "自动化", "自动化（第二学位）" ]
+      Degree: "本"
+      GroupCourse:
+        Link: ""
+        Desc: ""
+        Name: ""
+        Ids: ["", "", ""]
+      GradeComposition:
+        - Name: "实验"
+          Percentage: 25
+        - Name: "论文"
+          Percentage: 10
+        - Name: "期末考试"
+          Percentage: 65
+      CourseHourComposition:
+        - Name: "授课"
+          Hour: 40
+        - Name: "实验"
+          Hour: 8
+
+    - Year: "2021_2022"
+      Name: [ "自动化", "自动化（第二学位）" ]
+      Degree: "本"
+      GroupCourse:
+        Link: ""
+        Desc: ""
+        Name: ""
+        Ids: ["", "", ""]
+      GradeComposition:
+        - Name: "实验"
+          Percentage: 25
+        - Name: "论文"
+          Percentage: 10
+        - Name: "期末考试"
+          Percentage: 65
+      CourseHourComposition:
+        - Name: "授课"
+          Hour: 40
+        - Name: "实验"
+          Hour: 8
+
+    - Year: "2022_2023"
+      Name: [ "自动化", "自动化（第二学位）" ]
+      Degree: "本"
+      GroupCourse:
+        Link: ""
+        Desc: ""
+        Name: ""
+        Ids: ["", "", ""]
+      GradeComposition:
+        - Name: "实验"
+          Percentage: 25
+        - Name: "论文"
+          Percentage: 10
+        - Name: "期末考试"
+          Percentage: 65
+      CourseHourComposition:
+        - Name: "授课"
+          Hour: 40
+        - Name: "实验"
+          Hour: 8
+
+    - Year: "2023_2024"
+      Name: [ "自动化", "自动化（第二学士学位）" ]
+      Degree: "本"
+      GroupCourse:
+        Link: ""
+        Desc: ""
+        Name: ""
+        Ids: ["", "", ""]
+      GradeComposition:
+        - Name: "实验"
+          Percentage: 25
+        - Name: "论文"
+          Percentage: 10
+        - Name: "期末考试"
+          Percentage: 65
+      CourseHourComposition:
+        - Name: "授课"
+          Hour: 40
+        - Name: "实验"
+          Hour: 8
+
+    - Year: "2024_2025"
+      Name: [ "自动化" ]
+      Degree: "本"
+      GroupCourse:
+        Link: "/blog/自动控制实践A实验"
+        Desc: "课程设计与实验"
+        Name: "自动控制实践A实验"
+        Ids: ["AUTO3016"]
+      GradeComposition:
+        - Name: "实验"
+          Percentage: 25
+        - Name: "论文"
+          Percentage: 10
+        - Name: "期末考试"
+          Percentage: 65
+      CourseHourComposition:
+        - Name: "授课"
+          Hour: 40
+        - Name: "实验"
+          Hour: 8
+
+    - Year: "2025_2026"
+      Name: [ "人工智能班", "自动化", "自动化（第二学士学位）" ]
+      Degree: "本"
+      GroupCourse:
+        Link: ""
+        Desc: ""
+        Name: ""
+        Ids: ["", "", ""]
+      GradeComposition:
+        - Name: "实验"
+          Percentage: 25
+        - Name: "论文"
+          Percentage: 10
+        - Name: "期末考试"
+          Percentage: 65
+      CourseHourComposition:
+        - Name: "授课"
+          Hour: 40
+        - Name: "实验"
+          Hour: 8
