@@ -1,11 +1,5 @@
 # AUTO3002A - 自动控制实践 A
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![作业10%](https://img.shields.io/badge/作业-10%25-wheat)
-![实验25%](https://img.shields.io/badge/实验-25%25-wheat)
-![期末考试65%](https://img.shields.io/badge/期末考试-65%25-wheat)
 
 该课程有配套的课程设计（2024 年秋季学期起改名为“实验”）：[自动控制实践 A 实验](https://hoa.moe/docs/junior-autumn/auto3016/)，独立设课，1.5 学分，40 学时。
 
