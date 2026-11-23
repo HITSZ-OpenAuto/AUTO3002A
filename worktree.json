@@ -234,6 +234,11 @@
     "time": 1750990186,
     "hash": "085a8a26e5a0cc33dd3cbe44e9156465b371d38a"
   },
+  "exams/深圳/2025秋_自动控制实践A期末回忆_BCC.pdf": {
+    "size": 214616,
+    "time": 1795393345,
+    "hash": "d3f91c7d11c300c2264e4116d135f9fd1347b4f1"
+  },
   "labs/2021/LMH_2021/实验报告-实验1.pdf": {
     "size": 4684305,
     "time": 1736784667,
@@ -433,6 +438,46 @@
     "size": 1533958,
     "time": 1750990186,
     "hash": "085a8a26e5a0cc33dd3cbe44e9156465b371d38a"
+  },
+  "labs/2025/BCC/reports/实验1.pdf": {
+    "size": 609707,
+    "time": 1795393345,
+    "hash": "d3f91c7d11c300c2264e4116d135f9fd1347b4f1"
+  },
+  "labs/2025/BCC/reports/实验2.pdf": {
+    "size": 1179526,
+    "time": 1795393345,
+    "hash": "d3f91c7d11c300c2264e4116d135f9fd1347b4f1"
+  },
+  "labs/2025/BCC/reports/实验3.pdf": {
+    "size": 829346,
+    "time": 1795393345,
+    "hash": "d3f91c7d11c300c2264e4116d135f9fd1347b4f1"
+  },
+  "labs/2025/BCC/reports/实验4.pdf": {
+    "size": 697059,
+    "time": 1795393345,
+    "hash": "d3f91c7d11c300c2264e4116d135f9fd1347b4f1"
+  },
+  "labs/2025/lab manual/lab1 步进电机特性实验.pdf": {
+    "size": 3757883,
+    "time": 1795393345,
+    "hash": "d3f91c7d11c300c2264e4116d135f9fd1347b4f1"
+  },
+  "labs/2025/lab manual/lab2 电机PWM控制与驱动电路实验指导书.pdf": {
+    "size": 8227727,
+    "time": 1795393345,
+    "hash": "d3f91c7d11c300c2264e4116d135f9fd1347b4f1"
+  },
+  "labs/2025/lab manual/lab3 交流伺服电机特性实验指导书.pdf": {
+    "size": 7806572,
+    "time": 1795393345,
+    "hash": "d3f91c7d11c300c2264e4116d135f9fd1347b4f1"
+  },
+  "labs/2025/lab manual/lab4 传感与测量反馈元件特性实验.pdf": {
+    "size": 4575328,
+    "time": 1795393345,
+    "hash": "d3f91c7d11c300c2264e4116d135f9fd1347b4f1"
   },
   "materials/README.md": {
     "size": 211,
